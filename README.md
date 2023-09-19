@@ -8,5 +8,5 @@ Allll
     </style>
 
 <body>
-    <h1>LGBT</h1>
+    <h1>yaya</h1>
     </body>
